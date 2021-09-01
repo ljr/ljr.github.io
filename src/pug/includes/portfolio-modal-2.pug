@@ -1,0 +1,27 @@
+// Portfolio Modal 2
+#portfolioModal2.portfolio-modal.modal.fade(tabindex='-1', aria-labelledby='portfolioModal2', aria-hidden='true')
+    .modal-dialog.modal-xl
+        .modal-content
+            .modal-header.border-0
+                button.btn-close(type='button', data-bs-dismiss='modal', aria-label='Close')
+            .modal-body.text-center.pb-5
+                .container
+                    .row.justify-content-center
+                        .col-lg-8
+                            // Portfolio Modal - Title
+                            h2.portfolio-modal-title.text-secondary.text-uppercase.mb-0 SCREEN
+                            // Icon Divider
+                            .divider-custom
+                                .divider-custom-line
+                                .divider-custom-icon
+                                    i.fas.fa-star
+                                .divider-custom-line
+                            // Portfolio Modal - Image
+                            img.img-fluid.rounded.mb-5(src='assets/img/projects/c2dc.png', alt='...')
+                            // Portfolio Modal - Text
+                            p.mb-4
+                                | Este projeto automatiza a obtenção de firmwares de roteadores domésticos.  Com a grande adoção de home-office em um mundo pós-COVID, esses ativos tornam-se alvos fáceis para atacantes e com isso ganham acesso a redes de empresas.  Esperamos obter 30 mil firmwares (já temos 5 mil) e queremos minerá-los para obter falhas críticas.  Aprendizado de máquina será essencial para obter os artefatos mais comuns e direcionar o trabalho.
+
+                            button.btn.btn-primary(href='#!', data-bs-dismiss='modal')
+                                i.fas.fa-times.fa-fw
+                                | Close Window
