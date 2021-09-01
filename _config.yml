@@ -10,9 +10,9 @@
 
 
 # Setup
-title:               Prof. Lourenço Alves Pereira Jr
+title:               Lourenço Alves Pereira, Ph.D.
 tagline:             ''
-description:         '<img height="256" src="/public/me.jpg" />'
+description:         '<img height="256" src="/public/me.png" />'
 url:                 https://ljr.github.io
 baseurl:             'https://ljr.github.io'
 paginate:            5
