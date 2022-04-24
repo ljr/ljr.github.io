@@ -3,19 +3,13 @@ layout: default
 title: Home
 ---
 
-Doutor em Ciências de Computação e Matemática Computacional pelo 
-[ICMC/USP](http://www.icmc.usp.br). Professor de Segurança 
-Computacional e Redes de Computadores no ITA.
+Assistant Professor of Networked Computer Systems and Cyber Security. Passionate about Operating Systems and their Networking stack, and currently conducting projects about the #cybersecurity threats in critical systems. Applications include: #5G/#6G, Internet of Things (#iot), Intelligent Transportation Systems (#c-its), #malwares.
 
-Interesses de pesquisa:
-- Redes de Computadores
-- Segurança Computacional
-- Modelagem de Desempenho 
+Researching on topics: anomaly- and signature-based malicious network activities detection for the new generation of intrusion detection systems (#ids) and #iot specific zero-trust firewall; enumeration and exploitation of firmware at scale; exploitation of autonomous car networking technologies (WAVE and 5G); malware orchestration and characterization.
 
-Contato: ljr [at] ita br<br />
-Divisão de Ciência da Computação - Sala 123 <br />
-Departamento de Sistemas de Computação <br />
-Instituto Tecnológico de Aeronáutica - [ITA](http://ita.br)<br />
-
+Cotact: ljr [at] ita br<br />
+Department of Computer Systems - room 123<br />
+Computer Science Division<br />
+Aeronautics Institute of Technology - [ITA](http://ita.br)<br />
 
 
