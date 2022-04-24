@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publicações
+title: Publications
 ---
 
 Please visit my [Google Scholar Profile](https://scholar.google.com/citations?user=paVNXpIAAAAJ&hl=en&authuser=1) for an updated list of published papers.  See also my [CV Lattes](http://lattes.cnpq.br/9207573181802953) (in BR portuguese).
