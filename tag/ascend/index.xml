@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ascend | Lourenço</title>
+    <link>https://ljr.github.io/tag/ascend/</link>
+      <atom:link href="https://ljr.github.io/tag/ascend/index.xml" rel="self" type="application/rss+xml" />
+    <description>ascend</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 17 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ljr.github.io/media/icon_hu326ed635ae0875dd209d7bea09b384ee_340_512x512_fill_lanczos_center_3.png</url>
+      <title>ascend</title>
+      <link>https://ljr.github.io/tag/ascend/</link>
+    </image>
+    
+    <item>
+      <title>ASCEND</title>
+      <link>https://ljr.github.io/project/ascend/</link>
+      <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://ljr.github.io/project/ascend/</guid>
+      <description>&lt;p&gt;ASCEND comprises a research line that contains five subprojects: AB-TRAP, SCREEN, CONTROLLER, NASTYWARE, and DIRECTIONS.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
