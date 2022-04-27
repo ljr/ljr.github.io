@@ -4,79 +4,75 @@
   
   
   <url>
-    <loc>http://localhost:1313/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ljr.github.io/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ljr.github.io/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2022-05-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/publication-type/1/</loc><lastmod>2022-05-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/publication-type/3/</loc><lastmod>2022-05-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ljr.github.io/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2022-05-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2022-05-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ljr.github.io/publication-type/1/</loc><lastmod>2022-05-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ljr.github.io/publication-type/3/</loc><lastmod>2022-05-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2022-05-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2022-05-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/publication/sbrc2022/</loc><lastmod>2022-05-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc></loc><lastmod>2022-05-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-05-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ljr.github.io/publication/sbrc2022/</loc><lastmod>2022-05-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2022-05-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2022-05-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/publication_types/</loc><lastmod>2022-05-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ljr.github.io/publication_types/</loc><lastmod>2022-05-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/publication/</loc><lastmod>2022-05-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ljr.github.io/publication/</loc><lastmod>2022-05-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/publication/sbrc2022-salao/</loc><lastmod>2022-05-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ljr.github.io/publication/sbrc2022-salao/</loc><lastmod>2022-05-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/project/ab-trap/</loc><lastmod>2022-04-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ljr.github.io/project/ab-trap/</loc><lastmod>2022-04-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tag/abtrap/</loc><lastmod>2022-04-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ljr.github.io/tag/abtrap/</loc><lastmod>2022-04-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tag/ascend/</loc><lastmod>2022-04-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ljr.github.io/tag/ascend/</loc><lastmod>2022-04-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/project/ascend/</loc><lastmod>2022-04-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ljr.github.io/project/ascend/</loc><lastmod>2022-04-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tag/controller/</loc><lastmod>2022-04-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ljr.github.io/tag/controller/</loc><lastmod>2022-04-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/project/controller/</loc><lastmod>2022-04-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ljr.github.io/project/controller/</loc><lastmod>2022-04-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tag/directions/</loc><lastmod>2022-04-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ljr.github.io/tag/directions/</loc><lastmod>2022-04-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/project/directions/</loc><lastmod>2022-04-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ljr.github.io/project/directions/</loc><lastmod>2022-04-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tag/nastyware/</loc><lastmod>2022-04-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ljr.github.io/tag/nastyware/</loc><lastmod>2022-04-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/project/nastyware/</loc><lastmod>2022-04-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ljr.github.io/project/nastyware/</loc><lastmod>2022-04-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/project/</loc><lastmod>2022-04-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ljr.github.io/project/</loc><lastmod>2022-04-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tag/screen/</loc><lastmod>2022-04-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ljr.github.io/tag/screen/</loc><lastmod>2022-04-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/project/screen/</loc><lastmod>2022-04-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ljr.github.io/project/screen/</loc><lastmod>2022-04-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tags/</loc><lastmod>2022-04-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ljr.github.io/tags/</loc><lastmod>2022-04-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/publication/sbseg2021/</loc><lastmod>2021-10-07T20:56:46-03:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ljr.github.io/publication/sbseg2021/</loc><lastmod>2021-10-07T20:56:46-03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2021-10-07T20:56:46-03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/publication-type/2/</loc><lastmod>2021-07-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ljr.github.io/publication-type/2/</loc><lastmod>2021-07-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2021-07-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/publication/abtrap/</loc><lastmod>2021-07-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2021-07-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2021-07-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ljr.github.io/publication/abtrap/</loc><lastmod>2021-07-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2021-07-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -86,22 +82,26 @@
   <url>
     <loc></loc><lastmod>2021-07-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc></loc><lastmod>2021-07-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/categories/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc></loc><lastmod>2021-07-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ljr.github.io/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ljr.github.io/categories/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ljr.github.io/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ljr.github.io/post/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ljr.github.io/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ljr.github.io/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ljr.github.io/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ljr.github.io/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url></urlset>
+    <loc>https://ljr.github.io/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url></urlset>

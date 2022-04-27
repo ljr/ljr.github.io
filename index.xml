@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lourenço A Pereira</title>
-    <link>http://localhost:1313/</link>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ljr.github.io/</link>
+      <atom:link href="https://ljr.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Lourenço A Pereira</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu326ed635ae0875dd209d7bea09b384ee_340_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ljr.github.io/media/icon_hu326ed635ae0875dd209d7bea09b384ee_340_512x512_fill_lanczos_center_3.png</url>
       <title>Lourenço A Pereira</title>
-      <link>http://localhost:1313/</link>
+      <link>https://ljr.github.io/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>http://localhost:1313/talk/example-talk/</link>
+      <link>https://ljr.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/example-talk/</guid>
+      <guid>https://ljr.github.io/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,95 +34,95 @@
     
     <item>
       <title>Implementação de um filtro de pacotes inteligente para dispositivos de Internet das Coisas</title>
-      <link>http://localhost:1313/publication/sbrc2022/</link>
+      <link>https://ljr.github.io/publication/sbrc2022/</link>
       <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sbrc2022/</guid>
+      <guid>https://ljr.github.io/publication/sbrc2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>T800: ferramenta de firewall e benchmark para IoT</title>
-      <link>http://localhost:1313/publication/sbrc2022-salao/</link>
+      <link>https://ljr.github.io/publication/sbrc2022-salao/</link>
       <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sbrc2022-salao/</guid>
+      <guid>https://ljr.github.io/publication/sbrc2022-salao/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AB-TRAP</title>
-      <link>http://localhost:1313/project/ab-trap/</link>
+      <link>https://ljr.github.io/project/ab-trap/</link>
       <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/ab-trap/</guid>
+      <guid>https://ljr.github.io/project/ab-trap/</guid>
       <description>&lt;p&gt;In AB-TRAP, we understand the most common attacks in the reconnaissance phase and trace them to identify the signature. Thus, it allows us to develop advanced packet filtering IoT firewall. Furthermore, we complement it with anomaly detection traffic, which enables redirection to a honeynet. In this context, AB-TRAP is a comprehensive solution capable of bringing to IoT: adaptive and distributed learning process, unsupervised and supervised malicious identification, model realization in small footprint devices (FreeRTOS, Nuttx, and Linux), and secure OTA.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ASCEND</title>
-      <link>http://localhost:1313/project/ascend/</link>
+      <link>https://ljr.github.io/project/ascend/</link>
       <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/ascend/</guid>
+      <guid>https://ljr.github.io/project/ascend/</guid>
       <description>&lt;p&gt;ASCEND comprises a research line that contains five subprojects: AB-TRAP, SCREEN, CONTROLLER, NASTYWARE, and DIRECTIONS.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>CONTROLLER</title>
-      <link>http://localhost:1313/project/controller/</link>
+      <link>https://ljr.github.io/project/controller/</link>
       <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/controller/</guid>
+      <guid>https://ljr.github.io/project/controller/</guid>
       <description>&lt;p&gt;Complementary in CONTROLLER, we offload decentralized algorithms targeted to Intelligent Transportation Systems, typically implemented in the ad-hoc network. Here, such Network Functions are Virtualized in Multi-access Edge Computing nodes for the next Mobile Network Generations (5G, 5GB, and 6G). Our approach consists of building a 5G-core and implementing URLLC on top of it. In addition to that, we can exploit realist threats and build more robust protection mechanisms. Containers and virtualization correspond to the primary research interests.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>DIRECTIONS</title>
-      <link>http://localhost:1313/project/directions/</link>
+      <link>https://ljr.github.io/project/directions/</link>
       <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/directions/</guid>
+      <guid>https://ljr.github.io/project/directions/</guid>
       <description>&lt;p&gt;Understanding the propagation of malware in the darknet is also helpful. To this end, the DIRECTIONS subproject aims to understand the dynamical behavior of malware propagation, which includes coordinated actions—mapping the relationship among the actors in the propagation of malware. Our approach employs complex networks to extract interaction backbones and plot evolutionary events chains leading to infection. Therefore, we can identify, characterize and develop protection mechanisms against new threats.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>NASTYWARE</title>
-      <link>http://localhost:1313/project/nastyware/</link>
+      <link>https://ljr.github.io/project/nastyware/</link>
       <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/nastyware/</guid>
+      <guid>https://ljr.github.io/project/nastyware/</guid>
       <description>&lt;p&gt;NASTYWARE subproject concerns identifying ransomware behavior since the initial access, passing throughout the persisting in the network hosts to the effectively dispatching the attack. We collect the most common ransomware families, trace their execution on logs, and analyze them statically and dynamically. Understanding the whole chain of events, we can provide protection and forecasting of ongoing threats. Anomaly detection plays a crucial role in this context by helping to identify zero-day behavior.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>SCREEN</title>
-      <link>http://localhost:1313/project/screen/</link>
+      <link>https://ljr.github.io/project/screen/</link>
       <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/screen/</guid>
+      <guid>https://ljr.github.io/project/screen/</guid>
       <description>&lt;p&gt;In SCREEN, we understand how the SOHO Wi-Fi works in the wild at scale by downloading as much firmware as we can. We intend to identify the most common software artifacts (using unsupervised clustering techniques). To reach exploitation to every instance, we conduct a re-hosting task to maximize the coverage amount of original code emulated. Thereby, such a technique advances the state-of-the-art in building realistic and virtualized testbeds at scale.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Enumeração de sistemas operacionais e serviços de firmwares de roteadores sem-fio</title>
-      <link>http://localhost:1313/publication/sbseg2021/</link>
+      <link>https://ljr.github.io/publication/sbseg2021/</link>
       <pubDate>Thu, 07 Oct 2021 20:56:46 -0300</pubDate>
-      <guid>http://localhost:1313/publication/sbseg2021/</guid>
+      <guid>https://ljr.github.io/publication/sbseg2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An End-to-End Framework for Machine Learning-Based Network Intrusion Detection System</title>
-      <link>http://localhost:1313/publication/abtrap/</link>
+      <link>https://ljr.github.io/publication/abtrap/</link>
       <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/abtrap/</guid>
+      <guid>https://ljr.github.io/publication/abtrap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>http://localhost:1313/post/getting-started/</link>
+      <link>https://ljr.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/getting-started/</guid>
+      <guid>https://ljr.github.io/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -199,9 +199,9 @@
     
     <item>
       <title>Slides</title>
-      <link>http://localhost:1313/slides/example/</link>
+      <link>https://ljr.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/slides/example/</guid>
+      <guid>https://ljr.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -324,9 +324,9 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>http://localhost:1313/admin/config.yml</link>
+      <link>https://ljr.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/admin/config.yml</guid>
+      <guid>https://ljr.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     

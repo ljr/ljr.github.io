@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>controller | Lourenço A Pereira</title>
-    <link>http://localhost:1313/tag/controller/</link>
-      <atom:link href="http://localhost:1313/tag/controller/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ljr.github.io/tag/controller/</link>
+      <atom:link href="https://ljr.github.io/tag/controller/index.xml" rel="self" type="application/rss+xml" />
     <description>controller</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 17 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu326ed635ae0875dd209d7bea09b384ee_340_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ljr.github.io/media/icon_hu326ed635ae0875dd209d7bea09b384ee_340_512x512_fill_lanczos_center_3.png</url>
       <title>controller</title>
-      <link>http://localhost:1313/tag/controller/</link>
+      <link>https://ljr.github.io/tag/controller/</link>
     </image>
     
     <item>
       <title>CONTROLLER</title>
-      <link>http://localhost:1313/project/controller/</link>
+      <link>https://ljr.github.io/project/controller/</link>
       <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/controller/</guid>
+      <guid>https://ljr.github.io/project/controller/</guid>
       <description>&lt;p&gt;Complementary in CONTROLLER, we offload decentralized algorithms targeted to Intelligent Transportation Systems, typically implemented in the ad-hoc network. Here, such Network Functions are Virtualized in Multi-access Edge Computing nodes for the next Mobile Network Generations (5G, 5GB, and 6G). Our approach consists of building a 5G-core and implementing URLLC on top of it. In addition to that, we can exploit realist threats and build more robust protection mechanisms. Containers and virtualization correspond to the primary research interests.&lt;/p&gt;
 </description>
     </item>
